@@ -1,7 +1,7 @@
 {
   "name": "swr-fetch-hooks",
   "description": "",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "test": "echo \"No test specified\"",
