@@ -1,0 +1,13 @@
+{
+  "name": "swr-fetch-hooks",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "swr": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.45"
+  }
+}
