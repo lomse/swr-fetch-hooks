@@ -8,7 +8,7 @@
     "react"
   ],
   "description": "Wrappers around the swr hooks",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/lomse/swr-fetch-hooks/blob/master/README.md",
   "url": "https://github.com/lomse/swr-fetch-hooks/issues",
   "email": "shellom2005@gmail.com",
