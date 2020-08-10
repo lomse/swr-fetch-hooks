@@ -1,6 +1,6 @@
 {
   "name": "swr-fetch-hooks",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "index.js",
   "test": "echo \"No test specified\"",
   "keywords": [
