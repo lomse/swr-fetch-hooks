@@ -1,17 +1,20 @@
 {
   "name": "swr-fetch-hooks",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "test": "echo \"No test specified\"",
-  "keywords": ["swr", "react"],
+  "keywords": [
+    "swr",
+    "react"
+  ],
   "description": "Wrappers around the swr hooks",
   "license": "ISC",
   "homepage": "https://github.com/lomse/swr-fetch-hooks/blob/master/README.md",
-  "url" : "https://github.com/lomse/swr-fetch-hooks/issues",
-  "email" : "shellom2005@gmail.com",
+  "url": "https://github.com/lomse/swr-fetch-hooks/issues",
+  "email": "shellom2005@gmail.com",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/lomse/swr-fetch-hooks.git"
+    "type": "git",
+    "url": "https://github.com/lomse/swr-fetch-hooks.git"
   },
   "dependencies": {
     "react": "^16.13.1",
