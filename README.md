@@ -1,5 +1,7 @@
 ## SWR FETCH HOOKS
 
+[swr-fetch-hooks repository on github](https://github.com/lomse/swr-fetch-hooks)
+
 ### Installation
 ```
 npm i swr-fetch-hooks or yarn add swr-fetch-hooks
